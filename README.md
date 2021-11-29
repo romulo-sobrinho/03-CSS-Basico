@@ -17,7 +17,7 @@
 
 
 ## Features
-
+<p>
 ✔️Criar estrutura HTML
 
 ✔️Utilizar tag <h1>
@@ -33,6 +33,7 @@
 ✔️ Utilizar propriedade font
 ✔️ Utilizar propriedade list
 ✔️ Utilizar propriedades de box model
+  </p>
 
 
 
