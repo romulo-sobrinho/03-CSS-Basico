@@ -17,7 +17,7 @@
 
 ## Features
 
-  ✔️ Criar estrutra HTML
+  ✔️ Criar estrutra HTML <br>
   ✔️ Utilizar tag <br>
   ✔️ Utilizar tag <br>
   ✔️ Utilizar tag <br>
