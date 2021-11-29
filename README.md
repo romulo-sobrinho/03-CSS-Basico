@@ -18,9 +18,9 @@
 
 ## Features
 
-✔️ Criar estrutura HTML
-✔️ Utilizar tag <h1>
-✔️ Utilizar Tag <ul>
+✔️Criar estrutura HTML
+✔️Utilizar tag <h1>
+✔️Utilizar Tag <ul>
 ✔️ Utilizar Tag <div>
 ✔️ Criar arquivo style.css
 ✔️ Utilizar propriedade background
