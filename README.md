@@ -16,17 +16,16 @@
 
 
 ## Features
-<p>
+
   ✔️ Criar estrutra HTML
-  ✔️ Utilizar tag <h1>
-  ✔️ Utilizar tag <ul>
-  ✔️ Utilizar tag <div>
-  ✔️ Criar arquivo style.css
-  ✔️ Utilizar propriedade background
-  ✔️ Utilizar propriedade font
-  ✔️ Utilizar propriedade list
-  ✔️ Utilizar propriedades de box model
-</p>
+  ✔️ Utilizar tag <br>
+  ✔️ Utilizar tag <br>
+  ✔️ Utilizar tag <br>
+  ✔️ Criar arquivo style.css <br>
+  ✔️ Utilizar propriedade background <br>
+  ✔️ Utilizar propriedade font <br>
+  ✔️ Utilizar propriedade list <br>
+  ✔️ Utilizar propriedades de box model <br>
     
 
 ## Preview
