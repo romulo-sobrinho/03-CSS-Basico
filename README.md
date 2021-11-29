@@ -18,15 +18,15 @@
 
 ## Features
 
-+ ✔️ Criar estrutura HTML
-+ [X] ✔️Utilizar tag <h1>
-+ [X] Utilizar Tag <ul>
-+ [X] Utilizar Tag <div>
-+ [X] Criar arquivo style.css
-+ [X] Utilizar propriedade background
-+ [X] Utilizar propriedade font
-+ [X] Utilizar propriedade list
-+ [X] Utilizar propriedades de box model
+✔️ Criar estrutura HTML
+✔️ Utilizar tag <h1>
+✔️ Utilizar Tag <ul>
+✔️ Utilizar Tag <div>
+✔️ Criar arquivo style.css
+✔️ Utilizar propriedade background
+✔️ Utilizar propriedade font
+✔️ Utilizar propriedade list
+✔️ Utilizar propriedades de box model
 
 
 
