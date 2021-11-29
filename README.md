@@ -15,25 +15,16 @@
 </p>
 
 
-
 ## Features
-<p>
-✔️Criar estrutura HTML
-
-✔️Utilizar tag <h1>
-  
-✔️Utilizar Tag <ul>
-  
-✔️ Utilizar Tag <div>
-  
-✔️ Criar arquivo style.css
-  
-✔️ Utilizar propriedade background
-  
-✔️ Utilizar propriedade font
-✔️ Utilizar propriedade list
-✔️ Utilizar propriedades de box model
-  </p>
+Criar estrutura HTML
+Utilizar tag <h1>  
+Utilizar Tag <ul>  
+Utilizar Tag <div>  
+Criar arquivo style.css
+Utilizar propriedade background  
+Utilizar propriedade font
+Utilizar propriedade list
+Utilizar propriedades de box model
 
 
 
